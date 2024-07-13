@@ -1,0 +1,96 @@
+baseURL: "http://localhost:1313/"
+languageCode: en-us
+paginate: 5
+title: TATA THECLAIRE G
+theme: PaperMod
+
+
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123456789-1
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: Theclaire
+  description: "Professional Portfolio of Your Name"
+  keywords: [Portfolio, Developer, Designer]
+  author: THECLAIRE
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  profileMode:
+    enabled: true
+    title: "SOFTWARE ENGINEER"
+    subtitle: "devised software engineer and a cyber security fan"
+    imageUrl: "/me.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: "Profile Picture"
+    buttons:
+      - name: Certificates
+        url: /portfolio
+      
+      - name: Projects
+        url: /projects
+
+  socialIcons:
+    - name: Tata Theclaire
+      url: "https://www.linkedin.com/in/Tata Theclaire"
+    - name: TATA-THECLAIRE
+      url: "https://github.com/TATA-THECLAIRE"
+    - name: THECLAIRE
+      url: "mailto:tatatheclaire@gemail.com"
+
+menu:
+  main:
+    - identifier: home
+      name: main
+      url: /
+      weight: 10
+    - identifier: portfolio
+      name: Portfolio
+      url: /portfolio
+      weight: 20
+   
+    - identifier: contact
+      name: github
+      url: /contact
+      weight: 40
+      identifier: blog
+      name: Blog
+      url: /blog
+      weight: 50
+      identifier: projects
+      name: Projects
+      url: /projects
+      weight: 60
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 70
