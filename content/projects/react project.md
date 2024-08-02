@@ -7,7 +7,7 @@ tags: ["DL", "AI", "Python", "PyTorch", "Computer Vision"]
 showToc: false
 weight: 206
 cover:
-    image: "images/react.jpeg"
+    image: ""
 --- 
 ## Description
 

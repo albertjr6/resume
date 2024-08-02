@@ -14,6 +14,8 @@
   </url><url>
     <loc>http://localhost:1313/tags/ai/</loc>
   </url><url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/arduino/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/c&#43;&#43;/</loc>
@@ -47,8 +49,6 @@
     <loc>http://localhost:1313/tags/solutions-architect/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/typescript/</loc>
   </url>

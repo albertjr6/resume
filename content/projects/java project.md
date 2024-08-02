@@ -7,7 +7,7 @@ tags: ["TypeScript", "NodeJS", "Docker", "GitHub Actions"]
 showToc: false
 weight: 202
 cover:
-    image: "images/java1.jpeg"
+    image: ""
 --- 
 
 

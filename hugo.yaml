@@ -1,7 +1,7 @@
 baseURL: "http://localhost:1313/"
 languageCode: en-us
 paginate: 5
-title: TATA THECLAIRE G
+title: ALBERT EKEMA
 theme: PaperMod
 
 
@@ -19,10 +19,10 @@ minify:
 
 params:
   env: production
-  title: Theclaire
+  title: Albert Ekema
   description: "Professional Portfolio of Your Name"
   keywords: [Portfolio, Developer, Designer]
-  author: THECLAIRE
+  author: ALBERT EKEMA
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto
@@ -46,9 +46,9 @@ params:
 
   profileMode:
     enabled: true
-    title: "SOFTWARE ENGINEER"
-    subtitle: "devised software engineer and a cyber security fan"
-    imageUrl: "/me.jpg"
+    title: "WEB DESIGNING"
+    subtitle: "Designing Websites"
+    imageUrl: ""
     imageWidth: 120
     imageHeight: 120
     imageTitle: "Profile Picture"
@@ -60,12 +60,12 @@ params:
         url: /projects
 
   socialIcons:
-    - name: Tata Theclaire
+    - name: ALBERT EKEMA
       url: "https://www.linkedin.com/in/Tata Theclaire"
-    - name: TATA-THECLAIRE
+    - name: ALBERT EKEMA
       url: "https://github.com/TATA-THECLAIRE"
-    - name: THECLAIRE
-      url: "mailto:tatatheclaire@gemail.com"
+    - name: ALBERT EKEMA
+      url: "mailto:ekemaalbert22@gmail.com"
 
 menu:
   main:

@@ -9,14 +9,14 @@ Thank you for your interest in contacting me. I welcome your inquiries and look 
 
 ## Contact Information
 
-- **Email:** tatatheclaire@gmail.com
-- **Phone:** + (237) 653584112
-- **Location:** tarred malingo, Buea, Cameroon
+- **Email:** ekemaalbert@gmail.com
+- **Phone:** + (237) 690119419,693894379
+- **Location:** checkpoint, Buea, Cameroon
 
 ## Social Media
 
-- [GitHub](https://github.com/TATA-THECLAIRE)
-- [Twitter](https://twitter.com/yourusername)
+- [GitHub](https://github.com/albertjr6/albertjr6.git)
+
 
 
 
