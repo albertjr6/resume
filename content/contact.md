@@ -9,7 +9,7 @@ Thank you for your interest in contacting me. I welcome your inquiries and look 
 
 ## Contact Information
 
-- **Email:** ekemaalbert@gmail.com
+- **Email:** ekemaalbert22@gmail.com
 - **Phone:** + (237) 690119419,693894379
 - **Location:** checkpoint, Buea, Cameroon
 
